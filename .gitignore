@@ -1,0 +1,9 @@
+# Firebase cache
+.firebase/
+
+# Firebase config
+.firebaserc
+firebase.json
+
+# .DS_Store
+.DS_Store
