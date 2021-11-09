@@ -18,7 +18,7 @@ A free and open source alternative to LinkTree. Based on the project of [Michael
  3. **Image**
 	 This is the user image that is shown. Make sure it is square and substitute the "src" property with its url. You can generate the url in a website like [imgur](https://imgur.com/).
 	```
-	<img  id="userPhoto"  src="https://i.imgur.com/t8ZX9um.jpg"  alt="User Photo">
+	<img  id="userPhoto"  src="logo-reblood-red-96.png"  alt="Reblood">
 	```
  4. **Links**
  To add your clickable links just substitute, delete or copy the "a" tags inside the "links" div with your desired hyperlinks.
