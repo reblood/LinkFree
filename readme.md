@@ -41,7 +41,7 @@ A free and open source alternative to LinkTree. Based on the project of [Michael
  6. **Fonts**
 	 You can import the font from a website like [Google Fonts](https://fonts.google.com/) and substitute the "--font" variable with its implementation.
 	 ```
-	 @import  url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+	 @import  url('https://fonts.googleapis.com/css?family=Rubik:400,700&display=swap');
 	 
-	 --font: 'Karla', sans-serif;
+	 --font: 'Rubik', sans-serif;
 	 ```
